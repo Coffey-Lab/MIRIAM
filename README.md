@@ -1,4 +1,4 @@
-# CellSegmentation
+# MIRIAM - Multiplexed Image Resegmentation of Internal Aberrant Membranes
 Matlab code to run cell segmentation on multiplexed imaging data. 
 
 This pipeline requires Iltastik for some tasks. Download Ilastik here: https://www.ilastik.org/download.html
