@@ -1,0 +1,101 @@
+absl-py==0.9.0
+alabaster==0.7.12
+appdirs==1.4.4
+astor==0.8.1
+Babel==2.8.0
+backcall==0.2.0
+cachey==0.2.1
+certifi==2020.6.20
+chardet==3.0.4
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+cycler==0.10.0
+cytoolz==0.10.1
+dask @ file:///tmp/build/80754af9/dask-core_1600199985769/work
+decorator==4.4.2
+docutils==0.16
+freetype-py==2.2.0
+gast==0.2.2
+google-pasta==0.2.0
+grpcio @ file:///tmp/build/80754af9/grpcio_1597424467487/work
+h5py @ file:///tmp/build/80754af9/h5py_1593454119955/work
+HeapDict==1.0.1
+idna==2.10
+imagecodecs @ file:///tmp/build/80754af9/imagecodecs_1593453763558/work
+imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+imagesize==1.2.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1593446408836/work
+ipykernel==5.3.4
+ipython==7.18.1
+ipython-genutils==0.2.0
+jedi==0.17.2
+Jinja2==2.11.2
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+kiwisolver==1.2.0
+Markdown @ file:///tmp/build/80754af9/markdown_1597433218422/work
+MarkupSafe==1.1.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1597876320876/work
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+napari==0.3.7
+napari-plugin-engine==0.1.8
+napari-svg==0.1.4
+networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233707986/work
+numpydoc==1.1.0
+olefile==0.46
+opencv-python==4.4.0.42
+opt-einsum==3.1.0
+packaging==20.4
+parso==0.7.1
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///tmp/build/80754af9/pillow_1594307325547/work
+prompt-toolkit==3.0.7
+protobuf==3.13.0
+psutil==5.7.2
+ptyprocess==0.6.0
+Pygments==2.7.0
+PyOpenGL==3.1.5
+pyparsing==2.4.7
+PySide2==5.14.2.3
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+PyYAML==5.3.1
+pyzmq==19.0.2
+qtconsole==4.7.7
+QtPy==1.9.0
+requests==2.24.0
+scikit-fmm==2019.1.30
+scikit-image==0.17.2
+scipy @ file:///tmp/build/80754af9/scipy_1597686620742/work
+shiboken2==5.14.2.3
+six==1.15.0
+snowballstemmer==2.0.0
+Sphinx==3.2.1
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+tensorboard==2.0.0
+tensorflow==2.0.0
+tensorflow-estimator==2.0.0
+termcolor==1.1.0
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1599208671228/work
+toolz==0.10.0
+tornado==6.0.4
+traitlets==5.0.4
+typing-extensions==3.7.4.3
+urllib3==1.25.10
+vispy==0.6.4
+wcwidth==0.2.5
+Werkzeug==0.16.1
+wrapt==1.12.1
+zipp==3.1.0
